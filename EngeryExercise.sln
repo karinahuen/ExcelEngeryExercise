@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EngeryExercise", "EngeryExercise\EngeryExercise.csproj", "{54CE80BC-4589-4276-9D5A-D434A9584EFE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnergyClassLibrary", "EnergyClassLibrary\EnergyClassLibrary.csproj", "{F7A2D8D5-C95B-437A-A84D-491D50AD364D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54CE80BC-4589-4276-9D5A-D434A9584EFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54CE80BC-4589-4276-9D5A-D434A9584EFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54CE80BC-4589-4276-9D5A-D434A9584EFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54CE80BC-4589-4276-9D5A-D434A9584EFE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7A2D8D5-C95B-437A-A84D-491D50AD364D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7A2D8D5-C95B-437A-A84D-491D50AD364D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7A2D8D5-C95B-437A-A84D-491D50AD364D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7A2D8D5-C95B-437A-A84D-491D50AD364D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9760EB87-E1CA-4C47-A60D-6E2B5F545552}
+	EndGlobalSection
+EndGlobal
